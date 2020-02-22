@@ -1,8 +1,8 @@
 # Qt-Graphics-Test
-Qt Graphics库学习
 
+Qt Graphics库学习库
 
-这个是通过QT5.12完成的一个小的测试
+这个是通过WIN10 64bit  QT5.12 mgw32 完成的一个小的测试
 
 上下移动玩家，空间发子弹
 
